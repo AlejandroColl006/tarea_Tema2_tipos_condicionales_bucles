@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="tarea_Tema2_tipos_condicionales_bucles" targetName="primerPrograma" />
+      <config projectName="tarea_Tema2_tipos_condicionales_bucles" targetName="segundoPrograma" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8272c7c6-5825-4f8b-a35c-3de3e28d4fb8" name="Changes" comment="Establecemos el código y los comentarios del código, hasta lo que llevamos realizado.">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segundoPrograma.c" beforeDir="false" afterPath="$PROJECT_DIR$/segundoPrograma.c" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "AlejandroColl006"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/AlejandroColl006/tarea_Tema2_tipos_condicionales_bucles.git",
+    "accountId": "a494926a-4c57-4c63-9046-f18a6e7cbefa"
+  }
+}]]></component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="openDirectoriesWithSingleClick" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="CMake Application.primerPrograma">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="primerPrograma" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tarea_Tema2_tipos_condicionales_bucles" TARGET_NAME="primerPrograma" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tarea_Tema2_tipos_condicionales_bucles" RUN_TARGET_NAME="primerPrograma">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="segundoPrograma" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tarea_Tema2_tipos_condicionales_bucles" TARGET_NAME="segundoPrograma" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tarea_Tema2_tipos_condicionales_bucles" RUN_TARGET_NAME="segundoPrograma">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.primerPrograma" />
+      <item itemvalue="CMake Application.segundoPrograma" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8272c7c6-5825-4f8b-a35c-3de3e28d4fb8" name="Changes" comment="" />
+      <created>1763053060350</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1763053060350</updated>
+      <workItem from="1763053061770" duration="5547000" />
+    </task>
+    <task id="LOCAL-00001" summary="Bueno, en esta ocasión para que ambos códigos compilen es decir, se ejecuten. CLion necesita la herramienta de CMakeLists.txt para poder compilar. Por lo que añadimos dos ejecutables (add_executable) de ambas clases con distinto nombre de los ejecutables para que no de error.">
+      <option name="closed" value="true" />
+      <created>1763053459207</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1763053459207</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Este guardado (save), debería ir por delante del guardado del CMakeList, pero al intentar compilar el código me daba fallo por lo que es la razón por la que tenía que crear el CMakeList.txt, además me equivoqué a la hora escribir el nombre de la librería.">
+      <option name="closed" value="true" />
+      <created>1763053790312</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1763053790312</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Este guardado (save), debería ir por delante del guardado del CMakeList, pero al intentar compilar el código me daba fallo por lo que es la razón por la que tenía que crear el CMakeList.txt, además me equivoqué a la hora escribir el nombre de la librería.">
+      <option name="closed" value="true" />
+      <created>1763053800067</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1763053800067</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Se termina el enunciado 1 (primerPrograma.c) con el código y con ello, el README.md queda terminado de la primera parte.">
+      <option name="closed" value="true" />
+      <created>1763054770093</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1763054770093</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Establecemos el título del segundo programa y su enunciado.">
+      <option name="closed" value="true" />
+      <created>1763054885046</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1763054885046</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Establecemos el código y los comentarios del código, hasta lo que llevamos realizado.">
+      <option name="closed" value="true" />
+      <created>1763069865359</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1763069865359</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Bueno, en esta ocasión para que ambos códigos compilen es decir, se ejecuten. CLion necesita la herramienta de CMakeLists.txt para poder compilar. Por lo que añadimos dos ejecutables (add_executable) de ambas clases con distinto nombre de los ejecutables para que no de error." />
+    <MESSAGE value="Este guardado (save), debería ir por delante del guardado del CMakeList, pero al intentar compilar el código me daba fallo por lo que es la razón por la que tenía que crear el CMakeList.txt, además me equivoqué a la hora escribir el nombre de la librería." />
+    <MESSAGE value="Se termina el enunciado 1 (primerPrograma.c) con el código y con ello, el README.md queda terminado de la primera parte." />
+    <MESSAGE value="Establecemos el título del segundo programa y su enunciado." />
+    <MESSAGE value="Establecemos el código y los comentarios del código, hasta lo que llevamos realizado." />
+    <option name="LAST_COMMIT_MESSAGE" value="Establecemos el código y los comentarios del código, hasta lo que llevamos realizado." />
+  </component>
+</project>

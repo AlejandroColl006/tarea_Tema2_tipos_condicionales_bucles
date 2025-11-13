@@ -1,0 +1,4 @@
+D:/Alex/Alex/Escritorio/Universidad/primeroYSegundo/Programacion/tarea_Tema2_tipos_condicionales_bucles/cmake-build-debug/CMakeFiles/primerPrograma.dir
+D:/Alex/Alex/Escritorio/Universidad/primeroYSegundo/Programacion/tarea_Tema2_tipos_condicionales_bucles/cmake-build-debug/CMakeFiles/segundoPrograma.dir
+D:/Alex/Alex/Escritorio/Universidad/primeroYSegundo/Programacion/tarea_Tema2_tipos_condicionales_bucles/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Alex/Alex/Escritorio/Universidad/primeroYSegundo/Programacion/tarea_Tema2_tipos_condicionales_bucles/cmake-build-debug/CMakeFiles/rebuild_cache.dir
